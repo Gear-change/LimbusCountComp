@@ -1,4 +1,4 @@
-		|yi Sang|faust	|don quixote|ryoshu		|mersult|hong lu|heathcliff	|Ishmael|rodon	|sinclair	|outis	|gregor	
+	|yi Sang|faust	|don quixote	|ryoshu		|mersult|hong lu|heathcliff	|Ishmael|rodon	|sinclair	|outis	|gregor	
 burn --	| ----	| ----	| --------	| --------	| ----	| ----	| --------	| ----	| ----	| --------	| ----	|1
 bleed	| ----	| ----	| 1--------	| --------	| ----	| ----	| --------	| ----	| 1----	| --------	| 1----	|
 tremor	| ----	| ----	| 1--------	| --------	| ----	| ----	| --------	| 1----	| 1----	| 1--------	| ----	|1
